@@ -1,0 +1,3 @@
+# stock_spider
+股票信息获取爬虫，与stock_simulation配合使用
+这个爬虫用来获取股票实时价格信息
